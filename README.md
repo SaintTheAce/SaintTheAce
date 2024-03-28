@@ -1,6 +1,6 @@
 # Cody H. Werner's - Portfolio
 
-## Value Proposition
+<!-- ## Value Proposition
 
 * Brief statement about the core skills, specializations, or the type of development value you offer (e.g., "Full-stack developer with a focus on building responsive web applications using React and Node.js")
 
