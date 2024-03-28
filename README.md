@@ -1,12 +1,10 @@
-# [Your Name]'s Developer Portfolio
-
-[Image of yourself or a project-related visual]
+# Cody H. Werner's - Portfolio
 
 ## Value Proposition
 
 * Brief statement about the core skills, specializations, or the type of development value you offer (e.g., "Full-stack developer with a focus on building responsive web applications using React and Node.js")
 
-## Project Highlights
+## Project Highlights:
 
 * **Project 1**
     * Description: (1-2 sentences)
@@ -25,10 +23,9 @@
 
 ## Contact
 
-* Email: ...
-* LinkedIn: ...
-* [Optional: Website/Portfolio link]
+* Email: 
+* LinkedIn: 
+* Website: 
 
 ## License 
-* Choose a license appropriate for a portfolio context (MIT or Apache 2.0 are common)
 
